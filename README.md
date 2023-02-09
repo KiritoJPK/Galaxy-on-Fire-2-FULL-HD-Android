@@ -1,5 +1,8 @@
 # Galaxy on Fire 2 FULL HD Android
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KiritoJPK)](https://twitter.com/KiritoJPK)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/KiritoJPK)](https://www.youtube.com/c/KiritoJPK)
+
 ### GOF2 android version with textures of the full hd PC and MAC version.
 
 - Modifications to the apk was done by me based on modifications created by 4PDA users Dhаmpir, atang, Droid378 and .Ворон.
