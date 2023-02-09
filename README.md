@@ -1,4 +1,4 @@
-# Galaxy-on-Fire-2-FULL-HD-Android
+# Galaxy on Fire 2 FULL HD Android
 GOF2 android version with textures of the full hd PC and MAC version.
 
 Modifications to the apk was done by me based on modifications created by 4PDA users Dhаmpir, atang, Droid378 and .Ворон.
