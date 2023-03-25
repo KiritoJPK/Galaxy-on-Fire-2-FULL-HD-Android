@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KiritoJPK)](https://twitter.com/KiritoJPK)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/KiritoJPK)](https://www.youtube.com/c/KiritoJPK)
-[![The Kaamo Club - Galaxy on Fire](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/JX9s3gxtnZ)
+[![The Kaamo Club - Galaxy on Fire](https://dcbadge.vercel.app/api/server/JX9s3gxtnZ)](https://discord.gg/JX9s3gxtnZ)
 
 ### GOF2 android version with textures of the full hd PC and MAC version.
 
