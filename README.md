@@ -6,7 +6,7 @@
 
 ### GOF2 android with full hd textures from Windows and macOS.
 
-
+![20240329_133314WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/8ed8980c-c9aa-4005-ba48-cbff8510e6ab)
 
 - Apk mod based on modifications created by 4PDA users Dhаmpir, atang, Droid378, leningroz and .Ворон.
 - Retexturing using AEI Editor with the full hd textures from the Windows/macOS version.
@@ -36,8 +36,8 @@
 
 ☆ And many other fixes and improvements.
 
-![20240329_133314WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/8ed8980c-c9aa-4005-ba48-cbff8510e6ab)
 ![20240329_133342WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/22b00e90-19ea-427a-a4d6-ef31f8ec36bf)
 ![20240329_133001WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/83973fe4-f321-4e57-8dda-e31229cc3376)
 ![20240329_133234WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/205b742f-5467-48cf-9de4-3c29b911eee6)
 ![20240329_133058WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/f3f903d9-562e-4cdd-8551-d18079cd9487)
+Screenshots taken by Windows Subsystem for Android™ (WSA)
