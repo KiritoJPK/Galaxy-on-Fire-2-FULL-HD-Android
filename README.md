@@ -36,6 +36,8 @@
 
 ☆ And many other fixes and improvements.
 
-![Screenshot_2023_02_09_12_06_45_497_net_fishlabs_gof2hdallandroid2012](https://user-images.githubusercontent.com/96847826/217856455-ae3a35b1-dced-43ea-a9c8-f46656da4ac2.png)
-![Screenshot_2023_02_09_12_05_51_132_net_fishlabs_gof2hdallandroid2012](https://user-images.githubusercontent.com/96847826/217856760-7f5e0778-21d6-410d-965e-184b0056fe7b.png)
-![Screenshot_2023_02_09_12_05_30_892_net_fishlabs_gof2hdallandroid2012](https://user-images.githubusercontent.com/96847826/217856873-00d07431-cc08-47ad-9e9b-01b5df51a1e8.png)
+![20240329_133314WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/8ed8980c-c9aa-4005-ba48-cbff8510e6ab)
+![20240329_133342WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/22b00e90-19ea-427a-a4d6-ef31f8ec36bf)
+![20240329_133001WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/83973fe4-f321-4e57-8dda-e31229cc3376)
+![20240329_133234WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/205b742f-5467-48cf-9de4-3c29b911eee6)
+![20240329_133058WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/f3f903d9-562e-4cdd-8551-d18079cd9487)
