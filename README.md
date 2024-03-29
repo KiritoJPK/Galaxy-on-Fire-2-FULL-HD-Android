@@ -4,14 +4,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KiritoJPK)](https://twitter.com/KiritoJPK)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/KiritoJPK)](https://www.youtube.com/c/KiritoJPK)
 
-### GOF2 android version with textures of the full hd PC and MAC version.
+### GOF2 android with full hd textures from Windows and macOS.
 
-![Screenshot_2023_02_09_12_06_45_497_net_fishlabs_gof2hdallandroid2012](https://user-images.githubusercontent.com/96847826/217856455-ae3a35b1-dced-43ea-a9c8-f46656da4ac2.png)
-![Screenshot_2023_02_09_12_05_51_132_net_fishlabs_gof2hdallandroid2012](https://user-images.githubusercontent.com/96847826/217856760-7f5e0778-21d6-410d-965e-184b0056fe7b.png)
-![Screenshot_2023_02_09_12_05_30_892_net_fishlabs_gof2hdallandroid2012](https://user-images.githubusercontent.com/96847826/217856873-00d07431-cc08-47ad-9e9b-01b5df51a1e8.png)
 
-- Modifications to the apk was done by me based on modifications created by 4PDA users Dhаmpir, atang, Droid378 and .Ворон.
-- The retexturing was done by me using the FHD textures from the PC/MAC version.
+
+- Apk mod based on modifications created by 4PDA users Dhаmpir, atang, Droid378, leningroz and .Ворон.
+- Retexturing using AEI Editor with the full hd textures from the Windows/macOS version.
 - This mod includes not only full hd textures but also bug fixes and improvements, such as:
 
 
@@ -30,6 +28,14 @@
 
 ☆ Miscellaneous fixes to engine fires on some ships.
 
-☆ An alternate version of the game with the prices and diagram requirements of the IOS version.
+☆ The game's economy has been changed to the original version of Windows/MacOS/iOS, because on android they were too abusive.
+
+☆ Added a version with post-processing FX (Bloom) enabled, but the stripe bugs are back (Thanks Ravenstal).
+
+☆ Added a version with a new system using reverse engineering, but it crashes randomly (Thanks Ravenstal).
 
 ☆ And many other fixes and improvements.
+
+![Screenshot_2023_02_09_12_06_45_497_net_fishlabs_gof2hdallandroid2012](https://user-images.githubusercontent.com/96847826/217856455-ae3a35b1-dced-43ea-a9c8-f46656da4ac2.png)
+![Screenshot_2023_02_09_12_05_51_132_net_fishlabs_gof2hdallandroid2012](https://user-images.githubusercontent.com/96847826/217856760-7f5e0778-21d6-410d-965e-184b0056fe7b.png)
+![Screenshot_2023_02_09_12_05_30_892_net_fishlabs_gof2hdallandroid2012](https://user-images.githubusercontent.com/96847826/217856873-00d07431-cc08-47ad-9e9b-01b5df51a1e8.png)
