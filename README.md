@@ -1,8 +1,8 @@
 # Galaxy on Fire 2 FULL HD Android
 
-[![The Kaamo Club - Galaxy on Fire](https://dcbadge.vercel.app/api/server/JX9s3gxtnZ?style=flat)](https://discord.gg/JX9s3gxtnZ)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KiritoJPK)](https://twitter.com/KiritoJPK)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/KiritoJPK)](https://www.youtube.com/c/KiritoJPK)
+[![The Kaamo Club - Galaxy on Fire](https://dcbadge.limes.pink/api/server/N4F4aMQ6XP/?style=flat)](https://discord.com/invite/N4F4aMQ6XP)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/KiritoJPK?style=flat&logo=x)](https://twitter.com/KiritoJPK)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCltxrRXiLS3vdO4YfVX51Mg?style=flat&logo=youtube&label=KiritoJPK)](https://www.youtube.com/c/KiritoJPK)
 
 ### GOF2 android with full hd textures from Windows and macOS.
 
