@@ -2,42 +2,27 @@
 
 [![The Kaamo Club - Galaxy on Fire](https://dcbadge.limes.pink/api/server/N4F4aMQ6XP/?style=flat)](https://discord.com/invite/N4F4aMQ6XP)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/KiritoJPK?style=flat&logo=x)](https://twitter.com/KiritoJPK)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCltxrRXiLS3vdO4YfVX51Mg?style=flat&logo=youtube&label=KiritoJPK)](https://www.youtube.com/c/KiritoJPK)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/total)
+![GitHub Release](https://shields.io/github/release/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android)
+[![4PDA Topic](https://img.shields.io/badge/-4PDA_GOF2-0854C1)](https://4pda.to/forum/index.php?showtopic=483666)
 
-### GOF2 android with full hd textures from Windows and macOS.
+### Galaxy on Fire 2 FHD for Android is a fan-made retexturing and enhancement project.
 
-![20240329_133314WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/8ed8980c-c9aa-4005-ba48-cbff8510e6ab)
+<img width="1920" height="1080" alt="20260907_135222HD-Player" src="https://github.com/user-attachments/assets/86705068-1220-4eb0-8c0f-3d71b0a7849d" />
 
-- Apk mod based on modifications created by 4PDA users Dhаmpir, atang, Droid378, leningroz and .Ворон.
-- Retexturing using AEI Editor with the full hd textures from the Windows/macOS version.
-- This mod includes not only full hd textures but also bug fixes and improvements, such as:
+☆ This project began with the aim of improving the Android version by utilizing original assets from the macOS, Windows, and iPhone versions of the game.
 
+☆ Interface modifications were also implemented, and FPS limits were removed. You can find further details about the changes in the release changelogs.
 
+☆ Before starting the mod installation, check if your device supports 32-bit apps, as the current version of the mod does not include 64-bit support. For more information, check the "read-me" file included in the installation files.
 
-☆ A menu at the start of the app that adjusts the ui and touch scale according to your needs.
+### ☆ The game includes two types of economy:
+- Original economy (original price): The game's original economy, present on macOS, Windows, and iPhone.
+- Android economy (android price): This refers to the pricing specific to the Android version, where the costs of certain pieces of equipment and the resource quantities required for blueprints are very high.
 
-☆ Tablet resolution for any device.
+### ☆ Many of the included modifications came from 4PDA community projects created by users Dhаmpir, atang, Droid378, leningroz, and Ворон, and also for users Ravenstal, meng00701, Bibifire, Pb-207, and KrYcHokE. Thank you very much for your contribution.
 
-☆ Removed the 30fps limitation (managed to get to 120fps on pocophone F3).
+Below are some screenshots taken using the BlueStacks 5 emulator.
 
-☆ Fixed bug with "0" numbers not appearing.
+<img width="2880" height="1889" alt="20260907_135317HD-Player" src="https://github.com/user-attachments/assets/a2a45302-811d-4f49-88f1-85f0400afca1" />
 
-☆ Fixed a bug with ripples in jumpgates, kaamo boards and various other things that happened on some devices.
-
-☆ Improved sound quality.
-
-☆ Miscellaneous fixes to engine fires on some ships.
-
-☆ The game's economy has been changed to the original version of Windows/MacOS/iOS, because on android they were too abusive.
-
-☆ Added a version with post-processing FX (Bloom) enabled, but the stripe bugs are back (Thanks Ravenstal).
-
-☆ Added a version with a new system using reverse engineering, but it crashes randomly (Thanks Ravenstal).
-
-☆ And many other fixes and improvements.
-
-![20240329_133342WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/22b00e90-19ea-427a-a4d6-ef31f8ec36bf)
-![20240329_133001WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/83973fe4-f321-4e57-8dda-e31229cc3376)
-![20240329_133234WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/205b742f-5467-48cf-9de4-3c29b911eee6)
-![20240329_133058WsaClient](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/assets/96847826/f3f903d9-562e-4cdd-8551-d18079cd9487)
-Screenshots taken by Windows Subsystem for Android™ (WSA)
