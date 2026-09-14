@@ -8,7 +8,8 @@
 
 ### Galaxy on Fire 2 FHD for Android is a fan-made retexturing and enhancement project.
 
-<img width="1920" height="1080" alt="20260907_135222HD-Player" src="https://github.com/user-attachments/assets/86705068-1220-4eb0-8c0f-3d71b0a7849d" />
+<img width="1920" height="1079" alt="20260914_163203HD-Player" src="https://github.com/user-attachments/assets/79454301-6a2b-49e8-ab68-9296d2028d00" />
+
 
 ☆ This project began with the aim of improving the Android version by utilizing original assets from the macOS, Windows, and iPhone versions of the game.
 
