@@ -1,6 +1,6 @@
 # Galaxy on Fire 2 FULL HD Android
 
-[![The Kaamo Club - Galaxy on Fire](https://dcbadge.limes.pink/api/server/N4F4aMQ6XP/?style=flat)](https://discord.com/invite/N4F4aMQ6XP)
+[![The Kaamo Club - Galaxy on Fire](https://dcbadge.limes.pink/api/server/N4F4aMQ6XP?style=flat)](https://discord.com/invite/N4F4aMQ6XP)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/KiritoJPK?style=flat&logo=x)](https://twitter.com/KiritoJPK)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/total)
 ![GitHub Release](https://shields.io/github/release/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android)
